@@ -5,4 +5,6 @@ from die import Die
 
 sss
 
-github.com
+github\
+
+    .com
