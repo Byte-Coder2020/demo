@@ -5,8 +5,5 @@ from die import Die
 # 创建一个六面的骰子
 die = Die()
 results = []
-for roll_num in range(1000):
-    result = die.roll()
-    results.append(result)
-
+f
 
