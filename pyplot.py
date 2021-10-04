@@ -1,13 +1,6 @@
 import pygal
 
-from die import Die
-
-
-
-
-
-
-
+from die imp
 sss
 
 
